@@ -44,10 +44,10 @@ Für Fotos, Lebensläufe und andere personenbezogene Dokumente gelten **ergänze
 Bei Fragen zur redaktionellen Nutzung oder zur Verifikation von Inhalten:  
 **Dr. Andreas Becker**  
 SRH Kurpfalzkrankenhaus Heidelberg  
-E-Mail: [info@example.com] (bitte durch reale Adresse ersetzen)  
+E-Mail: [andreas.becker@srh.de]  
 
 LinkedIn: [https://www.linkedin.com/in/andreas-becker/](https://www.linkedin.com/in/andreas-becker/)  
-GitHub-Profil: [https://github.com/andreasbecker](https://github.com/andreasbecker)
+GitHub-Profil: [https://github.com/andreasbecker](https://github.com/dranbecker)
 
 ---
 
