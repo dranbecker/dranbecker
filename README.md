@@ -43,9 +43,10 @@ Für Fotos, Lebensläufe und andere personenbezogene Dokumente gelten **ergänze
 
 Bei Fragen zur redaktionellen Nutzung oder zur Verifikation von Inhalten:  
 **Dr. Andreas Becker**  
-SRH Kurpfalzkrankenhaus Heidelberg
-Bonhoefferstr. 5
-69123 Heidelberg
+SRH Kurpfalzkrankenhaus Heidelberg,
+Bonhoefferstr. 5,
+69123 Heidelberg,
+
 E-Mail: [andreas.becker@srh.de]  
 
 LinkedIn: [https://www.linkedin.com/in/andreas-becker/](https://www.linkedin.com/in/andreas-becker/)  
