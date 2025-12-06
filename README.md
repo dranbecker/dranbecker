@@ -9,7 +9,7 @@ Dieses Repository dient als zentrale Anlaufstelle für Redaktionen, Journalist:i
 
 In diesem Repository finden Sie:
 
-- **Profilfoto** (zur honorarfreien redaktionellen Verwendung mit Quellenangabe)
+- **Profilfoto** (zur honorarfreien redaktionellen Verwendung mit Quellenangabe: Sabine Kress, Mannheim)
 - **Kurzbiografie deutsch englisch** (für Presse und Veranstaltungsprogramme)
 - **Ausführlicher Lebenslauf** (PDF)
 - **Publikationsliste** (wissenschaftlich / populärwissenschaftlich)
@@ -23,7 +23,7 @@ In diesem Repository finden Sie:
 Die in diesem Repository bereitgestellten Materialien dürfen unter folgenden Bedingungen genutzt werden:
 
 - Nutzung **ausschließlich für redaktionelle, journalistische oder wissenschaftliche Zwecke**.  
-- **Namensnennung erforderlich:** „Foto / Text: © Dr. Andreas Becker“  
+- **Namensnennung erforderlich:** „Foto: Sabine Kress, Mannheim“  
 - **Keine kommerzielle Nutzung** ohne vorherige schriftliche Zustimmung.  
 - **Keine Bearbeitung** von Bildern ohne vorherige Rücksprache.
 
